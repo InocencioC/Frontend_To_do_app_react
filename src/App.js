@@ -28,13 +28,18 @@ const Todos = ({todos}) => {
 };
 
 function App() {
-  async function getTodos(){
+
+  async function handleWithNewButton(){
+    setInputValue(!inputValue);
+  }
+  async function getTodos() {
     const response = await axios.get("http://localhost:3333/todos")
     setTodos(response.data);
   }
 
   const [todos, setTodos] = useState([]);
   const [inputValue, setInputValue] = useState("");
+  const [inputVisibility, setInputVisivility] = useState(false);
 
   useEffect(() => { 
     getTodos();
@@ -47,6 +52,7 @@ function App() {
         </div>
        <Todos todos={todos}></Todos>
        <input value={inputValue}
+       style={{display: inputVisibility ? "block" : "none"}}
        onChange={(event) => {
         setInputValue(event.target.value);
        }} 
