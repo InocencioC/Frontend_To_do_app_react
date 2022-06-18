@@ -29,13 +29,21 @@ const Todos = ({todos}) => {
 
 function App() {
 
-  async function handleWithNewButton(){
-    setInputValue(!inputValue);
+  async function handleWithNewButton() {
+    setInputVisivility(!inputVisibility);
   }
   async function getTodos() {
+    console.log("fsds");
     const response = await axios.get("http://localhost:3333/todos")
     setTodos(response.data);
   }
+async function createTodo() {
+  const response = await axios.post("http://localhost:3333/todos", {
+    name: inputValue, 
+});
+getTodos();
+setInputVisivility(!inputVisibility);
+}
 
   const [todos, setTodos] = useState([]);
   const [inputValue, setInputValue] = useState("");
@@ -56,8 +64,10 @@ function App() {
        onChange={(event) => {
         setInputValue(event.target.value);
        }} 
-       className='inputName'></input>
-       <button className='newTaskButton'>+ New task</button>
+       className='inputName'
+       ></input>
+       <button onClick={inputVisibility ? createTodo : handleWithNewButton} className='newTaskButton'>
+       {inputVisibility ? "Confirm" : "+ New task" }  </button>
       </header>
       
     </div>
