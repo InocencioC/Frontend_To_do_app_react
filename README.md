@@ -51,6 +51,16 @@ You may also see any lint errors in the console.
       <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB">
       <img alt="React" src="https://img.shields.io/twitter/url?color=blue&label=DOCKER&logo=DOCKER&logoColor=blue&style=for-the-badge">
       <img alt="React" src="https://img.shields.io/netlify/89?color=blue&label=netlify&logo=netlify&logoColor=BLUE&style=for-the-badge">
-  
- 
    </a>
+   <div align="center">
+
+[**Sobre**](#-sobre) &nbsp;&nbsp;**|**&nbsp;&nbsp;
+[**Features**](#-features) &nbsp;&nbsp;**|**&nbsp;&nbsp;
+[**Tecnologias utilizadas**](#-tecnologias-utilizadas) &nbsp;&nbsp;**|**&nbsp;&nbsp;
+[**Layout**](#-layout) &nbsp;&nbsp;**|**&nbsp;&nbsp;
+[**Instalação e execução**](#-instalação-e-execução) &nbsp;&nbsp;**|**&nbsp;&nbsp;
+[**Como contribuir**](#-como-contribuir) &nbsp;&nbsp;**|**&nbsp;&nbsp;
+[**Contato**](#-contato) &nbsp;&nbsp;**|**&nbsp;&nbsp;
+[**Licença**](#-licença)
+
+</div>
