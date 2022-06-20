@@ -79,12 +79,14 @@ You may also see any lint errors in the console.
 
 - [ ] Mobile version (With react native)
 
+## 📲 Contato
 
-## 📝 Licença
+Entre em contato comigo por e-mail ou pelo meu LinkedIn:
 
-<a href="https://github.com/mathrb22/DSDeliver-sds2/blob/main/LICENSE">
-    <img alt="GitHub License" src="https://img.shields.io/github/license/mathrb22/DSDeliver-sds2">
-</a>
+<a href="mailto:inocenciocordeiroarmando@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://www.linkedin.com/in/matheus-ribeiro-dev/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+
+
 
 Esse projeto está sob a licença **MIT**. Veja o arquivo _**LICENSE**_ para mais detalhes.
 
