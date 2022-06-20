@@ -77,6 +77,15 @@ You may also see any lint errors in the console.
 
 - [ ] Mobile version (With react native)
 
+## 🔧 Installation and execution
+
+To download the project's source code on your machine, you must first have installed [**Git**](https://git-scm.com/).
+
+With Git installed, in your terminal run the following command:
+
+```bash
+$ git clone https://github.com/InocencioC/Frontend_To_do_app_react.git
+
 ## 💡 How to contribute
 
   Do a **_fork_** of that repository;
@@ -87,14 +96,6 @@ You may also see any lint errors in the console.
 
 Pull requests are always welcome. If you have any questions or suggestions, please create an _**issue**_ or contact me.
 
-## 🔧 Installation and execution
-
-To download the project's source code on your machine, you must first have installed [**Git**](https://git-scm.com/).
-
-With Git installed, in your terminal run the following command:
-
-```bash
-$ git clone https://github.com/InocencioC/Frontend_To_do_app_react.git
 ## 📲 Contact
 
 ## Contact me by email or my LinkedIn:
@@ -102,15 +103,13 @@ $ git clone https://github.com/InocencioC/Frontend_To_do_app_react.git
 <a href="mailto:inocenciocordeiroarmando@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 <a href="https://www.linkedin.com/in/inoc%C3%AAncio-cordeiro" alt="LinkedIn"/></a>  <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
-
 ## 📝 License
 
 <a href="https://github.com/InocencioC/Frontend_To_do_app_react/blob/main/LICENSE">
     <img alt="GitHub License" src="https://img.shields.io/github/license/mathrb22/DSDeliver-sds2">
 </a>
 
-
-Esse projeto está sob a licença **MIT**. Veja o arquivo _**LICENSE**_ para mais detalhes.
+This project is under the **MIT** license. See the _**LICENSE**_ file for more details.
 
 ---
 
