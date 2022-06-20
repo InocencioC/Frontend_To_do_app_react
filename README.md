@@ -80,3 +80,18 @@ You may also see any lint errors in the console.
 - [ ] Mobile version (With react native)
 
 
+## 📝 Licença
+
+<a href="https://github.com/mathrb22/DSDeliver-sds2/blob/main/LICENSE">
+    <img alt="GitHub License" src="https://img.shields.io/github/license/mathrb22/DSDeliver-sds2">
+</a>
+
+Esse projeto está sob a licença **MIT**. Veja o arquivo _**LICENSE**_ para mais detalhes.
+
+---
+
+<h5 align="center">
+  &copy;2021 - <a href="https://github.com/InocencioC">Inocêncio Cordeiro</a>
+</h5>
+
+
