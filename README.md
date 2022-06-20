@@ -77,6 +77,6 @@ You may also see any lint errors in the console.
 
 ✔ Responsive layout
 
-- [ ] Mobile version
+- [ ] Mobile version (With react native)
 
 
