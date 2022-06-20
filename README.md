@@ -56,8 +56,6 @@ You may also see any lint errors in the console.
 
 [**About**](#-about) &nbsp;&nbsp;**|**&nbsp;&nbsp;
 [**Features**](#-features) &nbsp;&nbsp;**|**&nbsp;&nbsp;
-[**Technologies used**](#-Technologies-used) &nbsp;&nbsp;**|**&nbsp;&nbsp;
-[**Layout**](#-layout) &nbsp;&nbsp;**|**&nbsp;&nbsp;
 [**Installation and execution**](#-Installation-and-execution) &nbsp;&nbsp;**|**&nbsp;&nbsp;
 [**How to contribute**](#-how-to-contribute) &nbsp;&nbsp;**|**&nbsp;&nbsp;
 [**Contact**](#-contact) &nbsp;&nbsp;**|**&nbsp;&nbsp;
@@ -79,6 +77,24 @@ You may also see any lint errors in the console.
 
 - [ ] Mobile version (With react native)
 
+## 💡 How to contribute
+
+  Do a **_fork_** of that repository;
+- Create a **branch** for your feature: `git checkout -b my-feature`;
+- **commit** your changes: `git commit -m 'feat: My new feature'`;
+- **push** your branch: `git push origin my-feature`;
+- Make a **pull request** with your feature;
+
+Pull requests are always welcome. If you have any questions or suggestions, please create an _**issue**_ or contact me.
+
+## 🔧 Installation and execution
+
+To download the project's source code on your machine, you must first have installed [**Git**](https://git-scm.com/).
+
+With Git installed, in your terminal run the following command:
+
+```bash
+$ git clone https://github.com/InocencioC/Frontend_To_do_app_react.git
 ## 📲 Contact
 
 Entre em contato comigo por e-mail ou pelo meu LinkedIn:
