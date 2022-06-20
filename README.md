@@ -20,9 +20,6 @@ You may also see any lint errors in the console.
 <a aria-label="React Version" href="https://github.com/facebook/react/blob/master/CHANGELOG.md#1701-october-22-2020">
       <img src="https://img.shields.io/badge/react-%5E17.0.1-informational?logo=react"></img>
    </a>
- <a href="https://github.com/mathrb22/DSDeliver-sds2/commits/main">
-      <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/mathrb22/DSDeliver-sds2">
-   </a>
 
    <a href="https://github.com/mathrb22/DSDeliver-sds2/issues">
       <img alt="GitHub Issues" src="https://img.shields.io/github/issues/mathrb22/DSDeliver-sds2">
