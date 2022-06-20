@@ -85,36 +85,3 @@ With Git installed, in your terminal run the following command:
 
 ```bash
 $ git clone https://github.com/InocencioC/Frontend_To_do_app_react.git
-
-## 💡 How to contribute
-
-  Do a **_fork_** of that repository;
-- Create a **branch** for your feature: `git checkout -b my-feature`;
-- **commit** your changes: `git commit -m 'feat: My new feature'`;
-- **push** your branch: `git push origin my-feature`;
-- Make a **pull request** with your feature;
-
-Pull requests are always welcome. If you have any questions or suggestions, please create an _**issue**_ or contact me.
-
-## 📲 Contact
-
-## Contact me by email or my LinkedIn:
-
-<a href="mailto:inocenciocordeiroarmando@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-<a href="https://www.linkedin.com/in/inoc%C3%AAncio-cordeiro" alt="LinkedIn"/></a>  <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-
-## 📝 License
-
-<a href="https://github.com/InocencioC/Frontend_To_do_app_react/blob/main/LICENSE">
-    <img alt="GitHub License" src="https://img.shields.io/github/license/mathrb22/DSDeliver-sds2">
-</a>
-
-This project is under the **MIT** license. See the _**LICENSE**_ file for more details.
-
----
-
-<h5 align="center">
-  &copy;2021 - <a href="https://github.com/InocencioC">Inocêncio Cordeiro</a>
-</h5>
-
-
