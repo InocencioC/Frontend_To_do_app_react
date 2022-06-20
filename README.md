@@ -86,9 +86,9 @@ Entre em contato comigo por e-mail ou pelo meu LinkedIn:
 <a href="mailto:inocenciocordeiroarmando@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 <a href="https://www.linkedin.com/in/inoc%C3%AAncio-cordeiro/" alt="LinkedIn"/></a>
 
-## 📝 Licença
+## 📝 License
 
-<a href="https://github.com/mathrb22/DSDeliver-sds2/blob/main/LICENSE">
+<a href="https://github.com/InocencioC/Frontend_To_do_app_react/blob/main/LICENSE">
     <img alt="GitHub License" src="https://img.shields.io/github/license/mathrb22/DSDeliver-sds2">
 </a>
 
