@@ -83,9 +83,9 @@ To download the project's source code on your machine, you must first have insta
 
 With Git installed, in your terminal run the following command:
 
-```bash
+
 $ git clone https://github.com/InocencioC/Frontend_To_do_app_react.git
-´´´
+
 ## 💡 How to contribute
 
   Do a **_fork_** of that repository;
