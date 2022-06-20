@@ -17,3 +17,6 @@ You may also see any lint errors in the console.
  <a href="https://github.com/nodejs/node/blob/master/doc/changelogs/CHANGELOG_V14.md#14.15.0">
       <img alt="Nodejs Version" src="https://img.shields.io/badge/node.js-v14.15.0-informational?logo=Node.JS">
    </a>
+<a aria-label="React Version" href="https://github.com/facebook/react/blob/master/CHANGELOG.md#1701-october-22-2020">
+      <img src="https://img.shields.io/badge/react-%5E17.0.1-informational?logo=react"></img>
+   </a>
