@@ -27,6 +27,13 @@ You may also see any lint errors in the console.
    <a href="https://github.com/mathrb22/DSDeliver-sds2/issues">
       <img alt="GitHub Issues" src="https://img.shields.io/github/issues/mathrb22/DSDeliver-sds2">
    </a>
+    <a href="https://github.com/mathrb22/DSDeliver-sds2/issues">
+      <img alt="GitHub Issues" src="">
+   </a>
+    <a href="https://github.com/mathrb22/DSDeliver-sds2/issues">
+      <img alt="GitHub Issues" src="https://img.shields.io/badge/Prisma-prisma-blue">
+   </a>
+   
 
    <a href="https://github.com/mathrb22/DSDeliver-sds2/pulls">
       <img alt="Pull Requests Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square">
