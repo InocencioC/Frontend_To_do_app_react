@@ -54,13 +54,29 @@ You may also see any lint errors in the console.
    </a>
    <div align="center">
 
-[**Sobre**](#-sobre) &nbsp;&nbsp;**|**&nbsp;&nbsp;
+[**About**](#-about) &nbsp;&nbsp;**|**&nbsp;&nbsp;
 [**Features**](#-features) &nbsp;&nbsp;**|**&nbsp;&nbsp;
-[**Tecnologias utilizadas**](#-tecnologias-utilizadas) &nbsp;&nbsp;**|**&nbsp;&nbsp;
+[**Technologies used**](#-Technologies-used) &nbsp;&nbsp;**|**&nbsp;&nbsp;
 [**Layout**](#-layout) &nbsp;&nbsp;**|**&nbsp;&nbsp;
-[**Instalação e execução**](#-instalação-e-execução) &nbsp;&nbsp;**|**&nbsp;&nbsp;
-[**Como contribuir**](#-como-contribuir) &nbsp;&nbsp;**|**&nbsp;&nbsp;
-[**Contato**](#-contato) &nbsp;&nbsp;**|**&nbsp;&nbsp;
-[**Licença**](#-licença)
-
+[**Installation and execution**](#-Installation-and-execution) &nbsp;&nbsp;**|**&nbsp;&nbsp;
+[**How to contribute**](#-how-to-contribute) &nbsp;&nbsp;**|**&nbsp;&nbsp;
+[**Contact**](#-contact) &nbsp;&nbsp;**|**&nbsp;&nbsp;
+[**License**](#-License)
 </div>
+## 📃 About
+
+**To do APP** is a projet developed for educational purpose, in order to improve my skills as a junior full stack developer, it is possible to perform CRUD operations.
+
+## ✨ Features
+
+✔ Product listing via API (backend), I will host on Heroku
+
+✔ Mark items as done
+
+✔ It is possible create, read, update and delete items
+
+✔ Responsive layout
+
+- [ ] Mobile version
+
+
