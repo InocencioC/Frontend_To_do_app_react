@@ -76,6 +76,7 @@ You may also see any lint errors in the console.
 ✔ Responsive layout
 
 - [ ] Mobile version (With react native)
+![Screenshot 2022-06-20 130151](https://user-images.githubusercontent.com/34503843/174597568-9b9f1eeb-5a7d-46f6-9263-5c2e0d6384e0.png)
 
 ## 🔧 Installation and execution
 
